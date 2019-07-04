@@ -1,1 +1,2 @@
 # College-Based-Social-Network
+College Based Social Network provides the students of college to form a social networking platform among themselves, enabling them to connect with their seniors and juniors for sharing of information.College Based Social Network is helpful to remove communication gap between seniors and juniors.Its goal is to make a communication bridge between seniors and juniors.It provides user features to follow the students, send message to others.
